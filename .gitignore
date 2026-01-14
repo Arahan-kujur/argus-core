@@ -39,3 +39,7 @@ htmlcov/
 # Temporary files
 *.tmp
 *.log
+
+*GITHUB_PREPARATION.md
+*PROJECT_STRUCTURE.md
+*TESTING.md
